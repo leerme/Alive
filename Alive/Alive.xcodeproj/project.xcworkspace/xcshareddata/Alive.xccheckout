@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FFD753C7-D465-4073-948C-21710AADF2AD</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>d3b33442-203a-4b98-a023-85834f8d8bd5++1585</key>
+		<string>http://192.168.88.8/qfproj/teachers/oyangjian/%25E7%2588%25B1%25E9%2599%2590%25E5%2585%258D/trunk/MMProgressHUD</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>d3b33442-203a-4b98-a023-85834f8d8bd5++1585</key>
+		<string>MMProgressHUD/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>d3b33442-203a-4b98-a023-85834f8d8bd5++1585</key>
+		<string>http://192.168.88.8/qfproj</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.88.8/qfproj/teachers/oyangjian/%25E7%2588%25B1%25E9%2599%2590%25E5%2585%258D/trunk/MMProgressHUD</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>d3b33442-203a-4b98-a023-85834f8d8bd5++1585</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>d3b33442-203a-4b98-a023-85834f8d8bd5++1585</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MMProgressHUD</string>
+		</dict>
+	</array>
+</dict>
+</plist>

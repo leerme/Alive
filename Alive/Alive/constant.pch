@@ -1,0 +1,29 @@
+//
+//  constant.pch
+//  新浪微博
+//
+//  Created by qianfeng on 15-5-15.
+//  Copyright (c) 2015年 程志鹏. All rights reserved.
+//
+
+#ifndef _____constant_pch
+#define _____constant_pch
+
+
+// RGB颜色
+#define GPColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+
+// 随机色
+#define GPRandomColor GPColor(arc4random_uniform(256), arc4random_uniform(256), arc4random_uniform(256))
+
+//设置一些常用的尺寸
+#define GPScreenFrame [UIScreen mainScreen].bounds
+#define GPScreenWidth [UIScreen mainScreen].bounds.size.width
+#define GPScreenHeight [UIScreen mainScreen].bounds.size.height
+
+#define GPSearchWidth 375
+#define GPSearchheight 40
+
+#define GPCategoryUrl @"http://act.myzaker.com/?c=category_list&city=beijing&lat=40.03713&lng=116.369579"
+
+#endif
